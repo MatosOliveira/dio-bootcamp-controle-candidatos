@@ -5,6 +5,9 @@ import java.util.List;
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
+/**
+ * Classe que simula a selecao de candidatos em um processo seletivo
+ */
 public class ProcessoSeletivo {
 
 	static double SALARIO_BASE = 2000.0;
